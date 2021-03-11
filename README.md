@@ -1,5 +1,6 @@
 # Battleships-Game
-Text-based battleships Game with different features:
+Text-based battleships game built with ncurses library. 
+Features:
 - loading and saving gamestate
 - singleplayer with different difficulty levels
 - multiplayer
