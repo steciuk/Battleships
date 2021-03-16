@@ -1,0 +1,11 @@
+<map id="strzalGracza" name="strzalGracza">
+<area shape="rect" id="node2" href="$_statki2_8c.html#a7ee131c1c50126f9a90e0838b3dfdfe6" title="obsluguje wejscie uzytkownika i wywoluje przesunKursor() " alt="" coords="188,35,280,62"/>
+<area shape="rect" id="node6" href="$_statki2_8c.html#a91453b7946ef59375524236a02f132d1" title="konwertuje igrekowa rzeczywsita wspolrzedna okna terminala na wspolrzedna planszy ..." alt="" coords="394,201,455,227"/>
+<area shape="rect" id="node7" href="$_statki2_8c.html#af14a32930d279748e489d0c480784107" title="konwertuje iksowa rzeczywsita wspolrzedna okna terminala na wspolrzedna planszy " alt="" coords="394,251,455,278"/>
+<area shape="rect" id="node8" href="$_statki2_8c.html#a58dca1166ca13b99daea6c2d6b9fc2b0" title="obsluguje trafienia w statki przeciwnika i sprawdza czy trafiony statek zostal zatopiony &#45; wyswietla ..." alt="" coords="201,213,267,239"/>
+<area shape="rect" id="node9" href="$_statki2_8c.html#a6af6a7fd950bb43ec8f44217709dce5c" title="rysuje zawartosc pol planszy, plansze &#45; patrz: main() " alt="" coords="367,125,483,151"/>
+<area shape="rect" id="node10" href="$_statki2_8c.html#a19b597e3436a9d3a26108f12423e3db6" title="rysuje kursor uzywany podczas strzelania &gt; &lt; " alt="" coords="149,314,319,341"/>
+<area shape="rect" id="node3" href="$_statki2_8c.html#a587a9c849f08891d8c8efd917528726b" title="konwertuje igrekowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala ..." alt="" coords="531,23,583,50"/>
+<area shape="rect" id="node4" href="$_statki2_8c.html#a8b201c2b4c2a0a11757b605033af822f" title="przesowa kursor na podane wspolrzedne planszy, NIE RZECZYWISTE WSPOLRZEDNE OKNA TERMINALA, blkuje mozliwosc wyjechania kursorem poza plansze " alt="" coords="371,23,478,50"/>
+<area shape="rect" id="node5" href="$_statki2_8c.html#aaefdb27d15c4ef80f8578632433ac1dd" title="konwertuje iksowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala " alt="" coords="531,74,583,101"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_statki2_8c.html#a38ce3d63b6e55ed33e4de259842d22d4" title="inicjalizuje i ustawia ncurses, wylacza wyswietlanie wciskanych klawiszy w termianlu, wylacza kursor terminala " alt="" coords="106,5,197,32"/>
+<area shape="rect" id="node3" href="$_statki2_8c.html#a8ca505bd8066bfd1238e5bf4b0d0de0c" title="obsluguje menu glowne " alt="" coords="124,56,179,83"/>
+<area shape="rect" id="node8" href="$_statki2_8c.html#afca0bc94f3e95c1a3153b2577a45a307" title="wczytuje obecny stan rozgrywki z pliku tekstowego " alt="" coords="105,157,198,184"/>
+<area shape="rect" id="node9" href="$_statki2_8c.html#aeedbc98c65928df082c6e02ae3a4cf1e" title="alokuje pamiec na tablice podanych rozmiarow " alt="" coords="281,157,343,184"/>
+<area shape="rect" id="node10" href="$_statki2_8c.html#a7f70f27e322921707958e26f0492404f" title="rozpoczyna gre wlasciwa " alt="" coords="130,360,173,387"/>
+<area shape="rect" id="node33" href="$_statki2_8c.html#a2cb1038e4689bb1c8ca6a5e26e355369" title="umieszcza 0 w kazdym polu planszy gracza lub przeciwnika, plansze &#45; patrz: main() ..." alt="" coords="655,157,775,184"/>
+<area shape="rect" id="node44" href="$_statki2_8c.html#a865b6425cbd7b2868739dfea7e9b9ec6" title="zapisuje obecny stan rozgrywki w pliku tekstowym " alt="" coords="108,411,195,437"/>
+<area shape="rect" id="node45" href="$_statki2_8c.html#a82b8c9a506c05c31e29d23908b6ee029" title="przypisuje parametrom statkow wartosci domyslne " alt="" coords="104,461,199,488"/>
+<area shape="rect" id="node4" href="$_statki2_8c.html#a0a7a8262bf43fdd6a39b59ab1cd2d6c2" title="wyswietla ascii art glownego menu " alt="" coords="265,5,359,32"/>
+<area shape="rect" id="node5" href="$_statki2_8c.html#aedc2f40eb4d0d3d4ed41639dc67977e9" title="odpowiada za wybor trybu SP/MP w menu glownym " alt="" coords="255,56,369,83"/>
+<area shape="rect" id="node7" href="$_statki2_8c.html#a4e57ca9f74d7d61bc78b36671465bead" title="odpowiada za ustawienia planszy w menu glownym " alt="" coords="247,107,377,133"/>
+<area shape="rect" id="node6" href="$_statki2_8c.html#acc7c60dc86efd06f79096da40a7c7688" title="odpowiada za ustawienia trudnosci w menu glownym " alt="" coords="425,56,564,83"/>
+<area shape="rect" id="node11" href="$_statki2_8c.html#ad5dae1891350060ab810827738802f9f" title="rozpoczyna faze atakow " alt="" coords="274,1044,350,1071"/>
+<area shape="rect" id="node30" href="$_statki2_8c.html#a5ab95fa99d31d4162a1f80c2581811d4" title="wyswietla ascii art wygranej " alt="" coords="277,360,347,387"/>
+<area shape="rect" id="node31" href="$_statki2_8c.html#ab69629edc3e81c474d6b2df71ff77f78" title="wyswietla ascii art przegranej " alt="" coords="273,411,351,437"/>
+<area shape="rect" id="node32" href="$_statki2_8c.html#a1e4b60b95f325ae50d6f9207f396ef49" title="obsluguje budowanie statkow gracza " alt="" coords="430,537,559,564"/>
+<area shape="rect" id="node38" href="$_statki2_8c.html#abfdfcb46e6c15187ee4d8fb8b46d8a71" title="obsluguje budowanie statkow przeciwnika, losuje ich pozaycje " alt="" coords="428,259,561,285"/>
+<area shape="rect" id="node41" href="$_statki2_8c.html#a921a2d9be852ca4d83eb954cd42bedc5" title="rozpoczyna faze atakow miedzy dwoma graczami " alt="" coords="273,791,351,817"/>
+<area shape="rect" id="node42" href="$_statki2_8c.html#a3473491eef5ade6fb9ce5588d4aafd5f" title="wyswietla ascii art wygranej gracza 1 " alt="" coords="273,461,351,488"/>
+<area shape="rect" id="node43" href="$_statki2_8c.html#afa08789b12078840e9b466e519ebd852" title="wyswietla ascii art wygranej gracza 2 " alt="" coords="273,512,351,539"/>
+<area shape="rect" id="node12" href="$_statki2_8c.html#af04f99a38c7e5836643fa1b98d08af7e" title="rysuje plansze przesunieta o xPos od punktu (0,0) " alt="" coords="666,715,763,741"/>
+<area shape="rect" id="node13" href="$_statki2_8c.html#a6af6a7fd950bb43ec8f44217709dce5c" title="rysuje zawartosc pol planszy, plansze &#45; patrz: main() " alt="" coords="657,1069,773,1096"/>
+<area shape="rect" id="node14" href="$_statki2_8c.html#a587a9c849f08891d8c8efd917528726b" title="konwertuje igrekowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala ..." alt="" coords="1020,917,1072,944"/>
+<area shape="rect" id="node15" href="$_statki2_8c.html#aaefdb27d15c4ef80f8578632433ac1dd" title="konwertuje iksowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala " alt="" coords="1020,664,1072,691"/>
+<area shape="rect" id="node16" href="$_statki2_8c.html#a8b201c2b4c2a0a11757b605033af822f" title="przesowa kursor na podane wspolrzedne planszy, NIE RZECZYWISTE WSPOLRZEDNE OKNA TERMINALA, blkuje mozliwosc wyjechania kursorem poza plansze " alt="" coords="865,816,972,843"/>
+<area shape="rect" id="node17" href="$_statki2_8c.html#a19b597e3436a9d3a26108f12423e3db6" title="rysuje kursor uzywany podczas strzelania &gt; &lt; " alt="" coords="630,917,799,944"/>
+<area shape="rect" id="node18" href="$_statki2_8c.html#a3691be33cf87722f2c9ac12e66146099" title="obsluguje strzal gracza, informauje o spudlowaniu " alt="" coords="447,765,543,792"/>
+<area shape="rect" id="node23" href="$_statki2_8c.html#a867c73ac13a6a0117655a6cb5f11fa35" title="losowy strzal przeciwnika &#45; poziom trudnosci 1 " alt="" coords="445,1069,544,1096"/>
+<area shape="rect" id="node24" href="$_statki2_8c.html#a36a6f4398be01b765b381664f1a0d035" title="logiczny strzal przeciwnika &#45; poziom trudnosci 2, 3, 4 " alt="" coords="437,1272,552,1299"/>
+<area shape="rect" id="node19" href="$_statki2_8c.html#a7ee131c1c50126f9a90e0838b3dfdfe6" title="obsluguje wejscie uzytkownika i wywoluje przesunKursor() " alt="" coords="669,816,761,843"/>
+<area shape="rect" id="node20" href="$_statki2_8c.html#a91453b7946ef59375524236a02f132d1" title="konwertuje igrekowa rzeczywsita wspolrzedna okna terminala na wspolrzedna planszy ..." alt="" coords="888,563,949,589"/>
+<area shape="rect" id="node21" href="$_statki2_8c.html#af14a32930d279748e489d0c480784107" title="konwertuje iksowa rzeczywsita wspolrzedna okna terminala na wspolrzedna planszy " alt="" coords="888,613,949,640"/>
+<area shape="rect" id="node22" href="$_statki2_8c.html#a58dca1166ca13b99daea6c2d6b9fc2b0" title="obsluguje trafienia w statki przeciwnika i sprawdza czy trafiony statek zostal zatopiony &#45; wyswietla ..." alt="" coords="681,563,748,589"/>
+<area shape="rect" id="node25" href="$_statki2_8c.html#acf7dc33657dd672ab29deb534ec09fa6" title="sprawdza czy sa pola o zwiekszonym prawdopodobienstwie zawierania statku jezeli tak losuje jedno z ty..." alt="" coords="671,1272,758,1299"/>
+<area shape="rect" id="node26" href="$_statki2_8c.html#aeba62c00b9534230a2de7095cc6e87ec" title="w polach torusoej planszy pomocniczej otaczajacych trafiony statek wpisuje 5, plansza pomocnicza patr..." alt="" coords="653,1323,776,1349"/>
+<area shape="rect" id="node27" href="$_statki2_8c.html#a6ccf510b523a645937823b4b189d11ae" title="w polach torusowej planszy pomocniczej otaczajacych trafiony statek wpisuje 5, plansza pomocnicza pat..." alt="" coords="647,1373,782,1400"/>
+<area shape="rect" id="node28" href="$_statki2_8c.html#a868a8f3d46c2834665ed1282b0bc349e" title="w polach planszy pomocniczej sasiadujacyh naroznikami z wybranym polem wpisuje 5 a w sasiadujacyh hor..." alt="" coords="669,1424,760,1451"/>
+<area shape="rect" id="node29" href="$_statki2_8c.html#a052ecedcf8273c9e9cf6bafe6b6044f8" title="w polach planszy pomocniczej otaczajacych trafiony statek wpisuje 5, plansza pomocnicza patrz: ataki(..." alt="" coords="663,1221,766,1248"/>
+<area shape="rect" id="node34" href="$_statki2_8c.html#afb275a8e4fbd28af08a4d9a827eabfe7" title="rysuje kursor uzywany podczas budowania statkow &lt; &gt; " alt="" coords="612,360,817,387"/>
+<area shape="rect" id="node35" href="$_statki2_8c.html#a28f3f1719d30fb9f96569e7183e89d1a" title="obraca statek " alt="" coords="669,411,761,437"/>
+<area shape="rect" id="node36" href="$_statki2_8c.html#ad1b07597b0b4769f8f5f9473d9bc81d5" title="buduje konkretny statek na planszy torusowej, w przypadku nieprawidlowej proby budowania wyswietla ko..." alt="" coords="632,461,797,488"/>
+<area shape="rect" id="node37" href="$_statki2_8c.html#ace11d4954c2d78919c8a0fcc53b324bc" title="buduje konkretny statek, w przypadku nieprawidlowej proby budowania wyswietla komunikat ..." alt="" coords="648,613,781,640"/>
+<area shape="rect" id="node39" href="$_statki2_8c.html#ab9b94cc05ea0191a478ab4c740ac74cb" title="buduje konkretny statek przeciwnika na planszy torusowej i wyswietla go na planszy gracza ..." alt="" coords="630,208,799,235"/>
+<area shape="rect" id="node40" href="$_statki2_8c.html#a227b60432eecd7e01f1b66320fbc1408" title="buduje konkretny statek i wyswietla go na planszy gracza " alt="" coords="646,259,783,285"/>
+</map>

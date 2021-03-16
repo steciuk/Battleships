@@ -1,0 +1,10 @@
+<map id="strzalSensowny" name="strzalSensowny">
+<area shape="rect" id="node2" href="$_statki2_8c.html#acf7dc33657dd672ab29deb534ec09fa6" title="sprawdza czy sa pola o zwiekszonym prawdopodobienstwie zawierania statku jezeli tak losuje jedno z ty..." alt="" coords="192,5,279,32"/>
+<area shape="rect" id="node3" href="$_statki2_8c.html#aeba62c00b9534230a2de7095cc6e87ec" title="w polach torusoej planszy pomocniczej otaczajacych trafiony statek wpisuje 5, plansza pomocnicza patr..." alt="" coords="174,56,297,83"/>
+<area shape="rect" id="node4" href="$_statki2_8c.html#a6ccf510b523a645937823b4b189d11ae" title="w polach torusowej planszy pomocniczej otaczajacych trafiony statek wpisuje 5, plansza pomocnicza pat..." alt="" coords="168,107,303,133"/>
+<area shape="rect" id="node5" href="$_statki2_8c.html#a868a8f3d46c2834665ed1282b0bc349e" title="w polach planszy pomocniczej sasiadujacyh naroznikami z wybranym polem wpisuje 5 a w sasiadujacyh hor..." alt="" coords="190,157,281,184"/>
+<area shape="rect" id="node6" href="$_statki2_8c.html#a052ecedcf8273c9e9cf6bafe6b6044f8" title="w polach planszy pomocniczej otaczajacych trafiony statek wpisuje 5, plansza pomocnicza patrz: ataki(..." alt="" coords="184,208,287,235"/>
+<area shape="rect" id="node7" href="$_statki2_8c.html#a6af6a7fd950bb43ec8f44217709dce5c" title="rysuje zawartosc pol planszy, plansze &#45; patrz: main() " alt="" coords="177,259,293,285"/>
+<area shape="rect" id="node8" href="$_statki2_8c.html#a587a9c849f08891d8c8efd917528726b" title="konwertuje igrekowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala ..." alt="" coords="351,233,403,260"/>
+<area shape="rect" id="node9" href="$_statki2_8c.html#aaefdb27d15c4ef80f8578632433ac1dd" title="konwertuje iksowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala " alt="" coords="351,284,403,311"/>
+</map>

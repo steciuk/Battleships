@@ -1,0 +1,6 @@
+<map id="menu" name="menu">
+<area shape="rect" id="node2" href="$_statki2_8c.html#a0a7a8262bf43fdd6a39b59ab1cd2d6c2" title="wyswietla ascii art glownego menu " alt="" coords="126,5,221,32"/>
+<area shape="rect" id="node3" href="$_statki2_8c.html#aedc2f40eb4d0d3d4ed41639dc67977e9" title="odpowiada za wybor trybu SP/MP w menu glownym " alt="" coords="116,56,231,83"/>
+<area shape="rect" id="node5" href="$_statki2_8c.html#a4e57ca9f74d7d61bc78b36671465bead" title="odpowiada za ustawienia planszy w menu glownym " alt="" coords="108,107,239,133"/>
+<area shape="rect" id="node4" href="$_statki2_8c.html#acc7c60dc86efd06f79096da40a7c7688" title="odpowiada za ustawienia trudnosci w menu glownym " alt="" coords="287,56,425,83"/>
+</map>

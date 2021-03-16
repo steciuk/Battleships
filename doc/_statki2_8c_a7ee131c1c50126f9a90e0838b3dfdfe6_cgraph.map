@@ -1,0 +1,5 @@
+<map id="ruchKursora" name="ruchKursora">
+<area shape="rect" id="node2" href="$_statki2_8c.html#a587a9c849f08891d8c8efd917528726b" title="konwertuje igrekowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala ..." alt="" coords="300,5,352,32"/>
+<area shape="rect" id="node3" href="$_statki2_8c.html#a8b201c2b4c2a0a11757b605033af822f" title="przesowa kursor na podane wspolrzedne planszy, NIE RZECZYWISTE WSPOLRZEDNE OKNA TERMINALA, blkuje mozliwosc wyjechania kursorem poza plansze " alt="" coords="145,31,252,57"/>
+<area shape="rect" id="node4" href="$_statki2_8c.html#aaefdb27d15c4ef80f8578632433ac1dd" title="konwertuje iksowa wspolrzedna planszy na rzeczywsita wspolrzedna okna terminala " alt="" coords="300,68,352,95"/>
+</map>

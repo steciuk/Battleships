@@ -1,0 +1,6 @@
+<map id="budujStatkiPrzeciw" name="budujStatkiPrzeciw">
+<area shape="rect" id="node2" href="$_statki2_8c.html#af04f99a38c7e5836643fa1b98d08af7e" title="rysuje plansze przesunieta o xPos od punktu (0,0) " alt="" coords="223,5,320,32"/>
+<area shape="rect" id="node3" href="$_statki2_8c.html#a2cb1038e4689bb1c8ca6a5e26e355369" title="umieszcza 0 w kazdym polu planszy gracza lub przeciwnika, plansze &#45; patrz: main() ..." alt="" coords="211,56,331,83"/>
+<area shape="rect" id="node4" href="$_statki2_8c.html#ab9b94cc05ea0191a478ab4c740ac74cb" title="buduje konkretny statek przeciwnika na planszy torusowej i wyswietla go na planszy gracza ..." alt="" coords="187,107,356,133"/>
+<area shape="rect" id="node5" href="$_statki2_8c.html#a227b60432eecd7e01f1b66320fbc1408" title="buduje konkretny statek i wyswietla go na planszy gracza " alt="" coords="203,157,340,184"/>
+</map>
